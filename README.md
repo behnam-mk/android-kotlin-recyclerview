@@ -1,8 +1,5 @@
 ## Android Kotlin RecyclerView
 
-### Video step by step
-[![Watch the video](http://i.imgur.com/bwUurgv.png)](https://goo.gl/VDCPGE)
-
 ### 0. Add library
 ```java
 implementation 'com.android.support:recyclerview-v7:26.0.1'
@@ -119,9 +116,6 @@ fun generateData(): ArrayList<UserDto> {
     return result
 }
 ```
-
-## Contact
-Drop me an email if you want discuss anything further. [Email](betranthanh@gmail.com)
 
 ## License
 Licensed under the MIT license.
